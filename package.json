@@ -13,7 +13,7 @@
         "filesize": "^3.5.10",
         "fs-extra": "^4.0.1",
         "homedir": "^0.6.0",
-        "moment": "^2.18.1",
+        "moment": "^2.29.4",
         "node-cmd": "^3.0.0",
         "node-watch": "^0.5.5",
         "node.os": "^1.2.4",
