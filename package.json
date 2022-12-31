@@ -26,7 +26,7 @@
         "@types/node": "^8.0.25",
         "@types/npm": "^2.0.28",
         "@types/watch": "^1.0.0",
-        "electron-builder": "^19.23.1",
+        "electron-builder": "^23.6.0",
         "jumpfm-api": "^1.1.0"
     },
     "optionalDependencies": {
